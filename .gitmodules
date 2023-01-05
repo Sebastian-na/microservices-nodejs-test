@@ -1,0 +1,6 @@
+[submodule "weather-microservice"]
+	path = weather-microservice
+	url = git@github.com:Sebastian-na/weather-microservice-wrapper.git
+[submodule "forecast-microservice"]
+	path = forecast-microservice
+	url = git@github.com:Sebastian-na/forecast-microservice-wrapper.git
