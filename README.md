@@ -10,7 +10,7 @@ Clone the repository with the code inside each submodule,
 for this run the following command in your terminal
 
 ```bash
-  git clone --recurse-submodules https://github.com/Sebastian-na/forecast-microservice-wrapper.git
+  git clone --recurse-submodules https://github.com/Sebastian-na/microservices-nodejs-test.git
 ```
 
 Then, you will need to install dependencies inside each submodule.
